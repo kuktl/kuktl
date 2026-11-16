@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Abhiram%20Kukatla&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Founder%20%40%20Zynspark%20%C2%B7%20Web%2C%20Mobile%20%26%20AI%20Products&descSize=19&descAlignY=60&animation=fadeIn" width="100%" alt="Abhiram Kukatla" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Abhiram%20Kukatla&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Founder%20of%20Zynspark%20-%20Web%20%7C%20Mobile%20%7C%20AI&descSize=20&descAlignY=60" width="100%" alt="Abhiram Kukatla" />
 
 <a href="https://zynspark.in"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00C6FF&center=true&vCenter=true&width=640&lines=I+build+websites+that+win+customers;Mobile+apps+with+Expo+%2B+Supabase;AI+dashboards+and+automation;Deep+learning+for+real+problems" alt="What I do" /></a>
 
-<a href="https://zynspark.in"><img src="https://img.shields.io/badge/Zynspark-zynspark.in-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Zynspark-zynspark.in" /></a>
-<a href="https://github.com/kuktl?tab=repositories"><img src="https://img.shields.io/badge/Projects-View%20all-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects-View all" /></a>
+<a href="https://zynspark.in"><img src="https://img.shields.io/badge/Zynspark-zynspark.in-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Zynspark-zynspark.in" /></a>
+<a href="https://github.com/kuktl?tab=repositories"><img src="https://img.shields.io/badge/Projects-View%20all-2c5364?style=for-the-badge&logo=github&logoColor=white" alt="Projects-View all" /></a>
 <img src="https://komarev.com/ghpvc/?username=kuktl&label=Profile%20views&color=00c6ff&style=for-the-badge" alt="Profile views" />
 
 </div>
