@@ -12,14 +12,14 @@
 
 <table>
 <tr>
-<td width="26%" align="center" valign="middle">
-<img src="https://github.com/kuktl.png?size=400" width="190" alt="Abhiram Kukatla" />
+<td width="38%" align="center" valign="middle">
+<img src="./face.svg" width="100%" alt="Portrait of Abhiram Kukatla drawn in zeros and ones" />
 <br /><br />
 <b>Abhiram Kukatla</b>
 <br />
 Founder, Zynspark
 </td>
-<td width="74%">
+<td width="62%">
 <img src="./intro.svg" width="100%" alt="Animated code introducing Abhiram: founder of Zynspark, India; builds websites, mobile apps and AI tools" />
 </td>
 </tr>
