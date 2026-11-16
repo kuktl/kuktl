@@ -27,7 +27,7 @@ Founder, Zynspark
 
 ## 👋 About me
 
-I'm **Abhiram**, founder of **[Zynspark](https://zynspark.in)**, a digital agency in India building websites, apps and AI tools for businesses.
+I'm **Abhiram**, founder of **[Zynspark](https://zynspark.in)**, a digital agency in India building websites, apps and AI tools for businesses. I'm also building **[Omnishown](https://omnishown.com/)**.
 
 ## 🚀 What I build
 
