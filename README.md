@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Abhiram 👋
 
-<!--
-**kuktl/kuktl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder of [Zynspark](https://zynspark.in)**, a digital agency in India building websites, apps and AI tools for businesses.
 
-Here are some ideas to get you started:
+### What I build
+- 🌐 Business websites and web apps (TypeScript, React, Next.js)
+- 📱 Mobile apps (Expo, Supabase)
+- 🤖 AI dashboards and automation
+- 🧠 Deep learning projects (image classification, object detection)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured work
+- [ai-lead-management-dashboard](https://github.com/kuktl/ai-lead-management-dashboard): AI lead management dashboard
+- [Sri-Lakshmi-All-cast-matrimony](https://github.com/kuktl/Sri-Lakshmi-All-cast-matrimony): matrimony platform
+- [Portfolio](https://github.com/kuktl/Portfolio): my portfolio and notebooks
+
+### Tech
+TypeScript · JavaScript · Python · React · Next.js · Node.js · Supabase · Java
+
+📫 Reach me at [zynspark.in](https://zynspark.in)
