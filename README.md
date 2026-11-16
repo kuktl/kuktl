@@ -10,6 +10,21 @@
 
 </div>
 
+<table>
+<tr>
+<td width="26%" align="center" valign="middle">
+<img src="https://github.com/kuktl.png?size=400" width="190" alt="Abhiram Kukatla" />
+<br /><br />
+<b>Abhiram Kukatla</b>
+<br />
+Founder, Zynspark
+</td>
+<td width="74%">
+<img src="./intro.svg" width="100%" alt="Animated code introducing Abhiram: founder of Zynspark, India; builds websites, mobile apps and AI tools" />
+</td>
+</tr>
+</table>
+
 ## 👋 About me
 
 I'm **Abhiram**, founder of **[Zynspark](https://zynspark.in)**, a digital agency in India building websites, apps and AI tools for businesses.
